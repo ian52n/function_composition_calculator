@@ -1,7 +1,9 @@
-Simple python program to compose functions f(x) and g.
+Simple python program to compose and evaluate
+functions f(x) and g. g does not need to be a
+function of x.
 
 Uses SymPy, so inputs must be properly formatted 
-SymPy expressions. Improper inputs generate
+SymPy expressions. Improper inputs give
 error messages.
 
-Outputs pretty png images of LaTeX equations.
+Outputs images of LaTeX equations.
