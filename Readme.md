@@ -6,4 +6,4 @@ Uses SymPy, so inputs must be properly formatted
 SymPy expressions. Improper inputs give
 error messages.
 
-Outputs images of LaTeX equations.
+Outputs LaTeX equations.
